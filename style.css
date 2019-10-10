@@ -1,0 +1,45 @@
+/*
+body {
+  color: black;
+  font-family: monospace;
+}
+#container {
+  width: 80%;
+  margin: 10%;
+}
+.book {
+  padding: 10px;
+  border-bottom: 1px solid black;
+}
+
+*/
+
+html, body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: serif;
+    
+}
+#container{
+ z-index: 10;
+/* display: none; */
+    
+}
+.joke{
+    font-weight: 900;
+    font-style: italic;
+    color: white;
+    position: absolute;
+    top: 1180px;
+    left:100px;
+    
+}
+.random{
+    boder:2px solid black;
+    outline: none;
+    font-family: monospace;
+    padding: 10px;
+    text-align: center;
+    
+}
