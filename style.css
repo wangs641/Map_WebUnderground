@@ -17,7 +17,7 @@ body {
 html, body{
     margin: 0;
     padding: 0;
-    color: white;
+/*    color: white;*/
     font-family: serif;
     
 }
@@ -27,12 +27,12 @@ html, body{
     
 }
 .joke{
-    font-weight: 900;
+font-weight: 900;
     font-style: italic;
     color: white;
     position: absolute;
-    top: 1180px;
-    left:100px;
+    top: 1600px;
+    left: 55px;
     
 }
 .random{
