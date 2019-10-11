@@ -31,5 +31,5 @@ function loadRandomJoke(event){
 
 
 
-window.setInterval(loadRandomJoke,5000);
-window.setTimeout(function() {} , 5000); 
+window.setInterval(loadRandomJoke,3000);
+window.setTimeout(function() {} , 3000); 
